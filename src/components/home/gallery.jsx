@@ -8,17 +8,17 @@ function Gallery() {
                 </div>
 
                 <div class="flex flex-row justify-evenly self-center w-[1000px] gap-[25px]">
-                    <div class="">
+                    <div>
                         <img src="images/img3.png" alt="image" class="rounder rounded-lg" />
                     </div>
-                    <div class="">
-                        <img src="images/img1.png" alt="image" class="rounder rounded-lg"/>
+                    <div>
+                        <img src="images/img1.png" alt="image" class="rounder rounded-lg" />
                     </div>
-                    <div class="">
-                        <img src="images/img4.png" alt="image" class="rounder rounded-lg"/>
+                    <div>
+                        <img src="images/img4.png" alt="image" class="rounder rounded-lg" />
                     </div>
-                    <div class="">
-                        <img src="images/img5.png" alt="image" class="rounder rounded-lg"/>
+                    <div>
+                        <img src="images/img5.png" alt="image" class="rounder rounded-lg" />
                     </div>
 
                 </div>
@@ -27,12 +27,12 @@ function Gallery() {
                         <img src="images/img2.png" alt="image" class="rounder rounded-lg self-center" />
                     </div>
                     <div >
-                        <img src="images/img6.png" alt="image" class="rounder rounded-lg self-center"/>
+                        <img src="images/img6.png" alt="image" class="rounder rounded-lg self-center" />
                     </div>
                     <div>
-                        <img src="images/img7.png" alt="image" class="rounder rounded-lg self-center"/>
+                        <img src="images/img7.png" alt="image" class="rounder rounded-lg self-center" />
                     </div>
-                    
+
 
                 </div>
 
